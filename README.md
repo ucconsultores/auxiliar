@@ -1,1 +1,1 @@
-# Aplicación "Auxiliar" creada para el registro de movimientos contables del INPI, siendo un auxiliar del registro oficial, que incluye movimientos a detalle que no estám en la plataforma oficial, para facilitar el control de la información administrativa de las OR y CCPI.
+# Aplicación "Auxiliar" creada para el registro de movimientos contables del INPI, siendo un auxiliar del registro oficial, que incluye movimientos a detalle que no están en la plataforma oficial, para facilitar el control de la información administrativa de las OR y CCPI.
